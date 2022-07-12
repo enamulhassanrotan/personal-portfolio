@@ -29,6 +29,11 @@ section {
     background-image: linear-gradient(ORANGE, red);
     padding: 10px 30px;
     border-radius: 10px;
+    font-weight: 200;
 
+}
 
+.background-img {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
