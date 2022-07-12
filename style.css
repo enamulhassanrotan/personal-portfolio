@@ -1,0 +1,34 @@
+body {
+    font-family: 'Rubik Moonrocks', cursive;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+#name {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.div-class {
+    width: 50%;
+    padding: 3%;
+}
+
+.div-class img {
+    width: 90%;
+}
+
+.link-button {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(ORANGE, red);
+    padding: 10px 30px;
+    border-radius: 10px;
+
+
+}
